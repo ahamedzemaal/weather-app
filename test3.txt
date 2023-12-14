@@ -1,0 +1,1 @@
+This weather app integrates OpenWeatherMap API, providing real-time weather details based on location. Users access accurate forecasts, set preferences for SMS alerts, and experience an intuitive UI for seamless navigation. It's a user-centric application offering comprehensive weather insights for a personalized experience.
